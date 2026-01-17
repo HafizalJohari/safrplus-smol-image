@@ -7,21 +7,21 @@
 
 **SAFR+ Smol Image** allows you to compress your images (JPEG, PNG, WebP) and convert HEIC files directly on your machine. No data is ever sent to the cloud.
 
-## ✨ Features
+## Features
 
-- **🔒 Privacy Focused**: All image processing is done locally using Python's Pillow library.
-- **🎨 Premium UI**: Modern, glassmorphic interface built with React, Tailwind CSS, and Framer Motion.
-- **⚡ Real-time Feedback**: Instant preview and compression statistics.
-- **📱 HEIC Support**: Native support for iPhone/Apple `.heic` photos.
-- **📦 Bulk Actions**: Drag & drop multiple files and download them as a single **ZIP** archive.
-- **🎛️ Fine-grained Control**: Adjust quality, resize factor, and output format.
+- **Privacy Focused**: All image processing is done locally using Python's Pillow library.
+- **Premium UI**: Modern, glassmorphic interface built with React, Tailwind CSS, and Framer Motion.
+- **Real-time Feedback**: Instant preview and compression statistics.
+- **HEIC Support**: Native support for iPhone/Apple `.heic` photos.
+- **Bulk Actions**: Drag & drop multiple files and download them as a single **ZIP** archive.
+- **Fine-grained Control**: Adjust quality, resize factor, and output format.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React (Vite), Tailwind CSS v4, Framer Motion, Lucide Icons.
 - **Backend**: FastAPI, Pillow (PIL), Pillow-HEIF.
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up the project locally.
 
@@ -64,7 +64,7 @@ cd frontend
 npm install
 ```
 
-## 🏃‍♂️ Running the Application
+## Running the Application
 
 You need to run both the backend and frontend servers.
 
@@ -90,10 +90,10 @@ npm run dev
 
 Visit **`http://localhost:5173`** in your browser to start compressing images!
 
-## 📸 Screenshots
+## Screenshots
 
 *(Add screenshots of your application here)*
 
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
